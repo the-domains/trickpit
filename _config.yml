@@ -1,8 +1,19 @@
-layout_spectrum: 0.9659498
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.6282881
-  lightness: 0.8023686
   brandStrength: 0.2939068
+  lightness: 0.8023686
   brandColors:
     - '#FFFFFB'
     - '#1E2720'
@@ -11,4 +22,5 @@ color:
     - '#D0B3A4'
   rhythmicContrast: 0.7275985
 typography_spectrum: 0.1057348
+layout_spectrum: 1
 name: TrickPit
