@@ -1,0 +1,14 @@
+layout_spectrum: 0.9659498
+color:
+  saturation: 0.6282881
+  lightness: 0.8023686
+  brandStrength: 0.2939068
+  brandColors:
+    - '#FFFFFB'
+    - '#1E2720'
+    - '#76A442'
+    - '#A2C6FF'
+    - '#D0B3A4'
+  rhythmicContrast: 0.7275985
+typography_spectrum: 0.1057348
+name: TrickPit
